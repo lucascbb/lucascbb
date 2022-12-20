@@ -26,8 +26,8 @@
     </section>
     <section>
       <div>
-        <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=lucascbb&show_icons=true&theme=transparent" />
-        <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascbb&layout=compact&langs_count=16&theme=transparent" />
+        <img height="150px" src="https://github-readme-stats.vercel.app/api?username=lucascbb&show_icons=true&theme=transparent" />
+        <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascbb&layout=compact&langs_count=16&theme=transparent" />
       </div>
       </section>
     <section>
