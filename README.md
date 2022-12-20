@@ -1,3 +1,4 @@
+<body>
   <main>
     <section>
       <div>
@@ -8,7 +9,13 @@
     </section>
     <section>
       <div>
-        <h4>Tecnologias de programação:</h6>
+        <img height="150px" src="https://github-readme-stats.vercel.app/api?username=lucascbb&show_icons=true&theme=transparent" />
+        <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascbb&layout=compact&langs_count=16&theme=transparent" />
+      </div>
+      </section>
+    <section>
+      <div>
+        <h4>Tecnologias de Programação:</h6>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -25,8 +32,9 @@
         <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
       </div>
       <div>
-        <h4>Outras ferramentas:</h6>
+        <h4>Outras Ferramentas:</h6>
         <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
       </div>
-    </section>    
+    </section>
   </main>
+</body>
