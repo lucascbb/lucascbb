@@ -8,7 +8,7 @@
   </section>
   <section>
     <div>
-      <a target="_blank" rel="noopener" href="https://www.linkedin.com/in/lucas-baroquello/">
+      <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/lucas-baroquello/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
       </a>
       <a href="https://api.whatsapp.com/send/?phone=5511941139277">
