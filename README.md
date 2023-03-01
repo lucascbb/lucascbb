@@ -1,13 +1,16 @@
 <main>
   <section>
     <div>
-      <p>😀 Olá, meu nome é Lucas Baroquello</p>
-      <p>👨‍💻 Sou Desenvolvedor Web Front End</p>
-      <p>📚 E atualmente, estou estudando Back End</p>
+      <h2>Seja bem-vindo(a) ao meu perfil! - #OpenToWork</h2>
+      <p>👨‍💻 Desenvolvedor Web Front-End</p>
+      <p>📚 Um apaixonado por tecnologia e programação</p>
+      <p>🚀 Atualmente, estou expandindo minhas habilidades em Back-End para oferecer soluções completas e escaláveis</p>
+      <p>🎯 Comprometido com a excelência e em constante evolução</p>
     </div>
   </section>
   <section>
     <div>
+      <h2>Contato</h2>
       <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/lucas-baroquello/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
       </a>
