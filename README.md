@@ -1,13 +1,10 @@
-# <img height=40 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" /> Seja bem-vindo(a) ao meu perfil! - #OpenToWork
+# <img height=40 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" /> Olá, seja bem-vindo(a) ao meu perfil! - #OpenToWork
 
-👨‍💻 Desenvolvedor Web Front-End
-<br />
-📚 Um apaixonado por tecnologia e programação
-<br />
-🚀 Atualmente, estou expandindo minhas habilidades em Back-End para oferecer soluções completas e escaláveis
-<br />
-🎯 Comprometido com a excelência e em constante evolução
-<br />
+<p>🤖 Me chamo Lucas Baroquello, tenho 24 anos e resido em São Paulo/SP.</p>
+<p>👨‍💻 Sou desenvolvedor Front-End e atualmente estou estudando Desenvolvimento Web Back-End na <a href="https://www.betrybe.com/">Trybe</a>.</p>
+<p>🧠 Embora minha formação seja em Marketing pelo Mackenzie e tenha 4 anos de experiência, foi na tecnologia que encontrei minha verdadeira paixão.</p>
+<p>📚 Um apaixonado por tecnologia e jogos.</p>
+<p>🎯 Comprometido com a excelência e em constante evolução.</p>
 
 ## Contact me:
 
