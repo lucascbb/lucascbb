@@ -1,7 +1,7 @@
 # <img height=40 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" /> Olá, seja bem-vindo(a) ao meu perfil! - #OpenToWork
 
 <p>🤖 Me chamo Lucas Baroquello, tenho 24 anos e resido em São Paulo/SP.</p>
-<p>👨‍💻 Sou desenvolvedor Full Stack e atualmente estou estudando Python na <a href="https://www.betrybe.com/">Trybe</a>.</p>
+<p>👨‍💻 Sou desenvolvedor Full Stack e atualmente estou estudando Java na <a href="https://www.betrybe.com/">Trybe</a>.</p>
 <p>🧠 Embora minha formação seja em Marketing pelo Mackenzie e tenha 4 anos de experiência, foi na tecnologia que encontrei minha verdadeira paixão.</p>
 <p>📚 Um apaixonado por tecnologia e jogos.</p>
 <p>🎯 Comprometido com a excelência e em constante evolução.</p>
