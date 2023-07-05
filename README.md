@@ -1,5 +1,5 @@
 <div>
-  <img height="70" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" /> 
+  <img height="50" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" /> 
   <img src="https://readme-typing-svg.demolab.com?font=Gloria+Hallelujah&size=30&duration=3000&pause=3000&color=FFFFFF&background=0D1117&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+seja+bem-vindo(a)+ao+meu+perfil!+-+%23OpenToWork" alt="Typing SVG" />
 </div>
 
