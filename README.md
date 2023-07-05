@@ -1,5 +1,11 @@
-# <img height=40 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" /> Olá, seja bem-vindo(a) ao meu perfil! - #OpenToWork <img src="https://komarev.com/ghpvc/?username=lucascbb&label=VISITAS&style=plastic&color=FF0000">
+<div>
+  <img height="70" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" /> 
+  <img src="https://readme-typing-svg.demolab.com?font=Gloria+Hallelujah&size=30&duration=3000&pause=3000&color=FFFFFF&background=0D1117&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+seja+bem-vindo(a)+ao+meu+perfil!+-+%23OpenToWork" alt="Typing SVG" />
+</div>
 
+#
+
+<img src="https://komarev.com/ghpvc/?username=lucascbb&label=VISITAS&style=plastic&color=FF0000">
 <p>🤖 Me chamo Lucas Baroquello, tenho 24 anos e resido em São Paulo/SP.</p>
 <p>👨‍💻 Sou desenvolvedor Full Stack e atualmente estou estudando Java na <a href="https://www.betrybe.com/">Trybe</a>.</p>
 <p>🧠 Embora minha formação seja em Marketing pelo Mackenzie e tenha 4 anos de experiência, foi na tecnologia que encontrei minha verdadeira paixão.</p>
