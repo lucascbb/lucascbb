@@ -1,4 +1,4 @@
-# <img height=40 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" /> Olá, seja bem-vindo(a) ao meu perfil! - #OpenToWork
+# <img height=40 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" /> Olá, seja bem-vindo(a) ao meu perfil! - #OpenToWork <img src="https://komarev.com/ghpvc/?username=lucascbb&label=VISITAS&style=plastic&color=FF0000">
 
 <p>🤖 Me chamo Lucas Baroquello, tenho 24 anos e resido em São Paulo/SP.</p>
 <p>👨‍💻 Sou desenvolvedor Full Stack e atualmente estou estudando Java na <a href="https://www.betrybe.com/">Trybe</a>.</p>
