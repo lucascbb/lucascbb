@@ -48,6 +48,13 @@
      <td align="center"><img height=35 width="110" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" ></td>
     <td align="center"><img height=35 width="110" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" ></td>
   </tr>
+      <tr>
+    <td align="center"><img height=35 width="110" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" ></td>
+    <td align="center"><img height=35 width="110" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" ></td>
+    <td align="center"><img height=35 width="110" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" ></td>
+    <td align="center"><img height=35 width="110" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" ></td>
+
+  </tr>
 </table>
 
 ## Stats
