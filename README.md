@@ -7,7 +7,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=lucascbb&label=VISITAS&style=plastic&color=FF0000">
 <p>🤖 Me chamo Lucas Baroquello, tenho 25 anos e resido em São Paulo/SP.</p>
-<p>👨‍💻 Sou desenvolvedor Full Stack e atualmente trabalho na <a href="https://www.startpn.com/">Startpn</a>.</p>
+<p>👨‍💻 Sou desenvolvedor Full Stack e atualmente trabalho naGopn.ai.</p>
 <p>🧠 Embora minha formação seja em Marketing pelo Mackenzie e tenha 4 anos de experiência, foi na tecnologia que encontrei minha verdadeira paixão.</p>
 <p>📚 Um apaixonado por tecnologia e jogos.</p>
 <p>🎯 Comprometido com a excelência e em constante evolução.</p>
