@@ -6,11 +6,17 @@
 #
 
 <img src="https://komarev.com/ghpvc/?username=lucascbb&label=VISITAS&style=plastic&color=FF0000">
-<p>🤖 Me chamo Lucas Coutinho.</p>
-<p>👨‍💻 Sou desenvolvedor Full Stack e atualmente trabalho no Grupo Goold.</p>
-<p>🧠 Embora minha formação seja em Marketing pelo Mackenzie e tenha 4 anos de experiência, foi na tecnologia que encontrei minha verdadeira paixão.</p>
-<p>📚 Um apaixonado por tecnologia e jogos.</p>
-<p>🎯 Comprometido com a excelência e em constante evolução.</p>
+<p>👋 Olá! Sou <strong>Lucas Coutinho (Coutinho)</strong>.</p>
+<p>🧑‍💻 <strong>Tech Lead</strong> no <strong>Grupo Goold</strong>, liderando um time de 7 devs e entregando produtos de alto tráfego em e-commerce Web e Mobile App.</p>
+
+<p>🚀 <strong>No dia a dia</strong> eu:</p>
+<ul>
+  <li>Oriento o time (priorização, code review, pair) e também <strong>desenvolvo</strong> (frontend & backend).</li>
+  <li>Cuido de <strong>arquitetura, CI/CD, deploys</strong> (front, back e bancos) e <strong>observabilidade</strong>.</li>
+  <li>Integro e testo serviços externos (pagamentos, logística, marketing).</li>
+  <li>Participo de <strong>processos de contratação</strong> (job posts, triagem, entrevistas) e padronizo práticas de código.</li>
+  <li>Planejo e garanto <strong>performance, escala e segurança</strong> para picos (17M+ acessos/mês).</li>
+</ul>
 
 ## Contact me:
 
