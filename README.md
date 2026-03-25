@@ -7,7 +7,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=lucascbb&label=VISITAS&style=plastic&color=FF0000">
 <p>👋 Olá! Sou <strong>Lucas Coutinho (Coutinho)</strong>.</p>
-<p>🧑‍💻 <strong>Tech Lead</strong> no <strong>Grupo Goold</strong>, liderando um time de 7 devs e entregando produtos de alto tráfego em e-commerce Web e Mobile App.</p>
+<p>🧑‍💻 <strong>Tech Lead</strong> no <strong>Grupo Goold</strong>, liderando um time de 3 devs e entregando produtos de alto tráfego em e-commerce Web e Mobile App.</p>
 
 <p>🚀 <strong>No dia a dia</strong> eu:</p>
 <ul>
